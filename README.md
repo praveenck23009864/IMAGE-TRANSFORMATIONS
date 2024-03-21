@@ -25,8 +25,8 @@ Thus the program is executed in google collab.
 
 ## Program:
 ```
-Developed By:HARINI V
-Register Number:212222230044
+Developed By:praveen ck
+Register Number:212222243003
 ```
 i)Image Translation:
 ```python
