@@ -22,8 +22,8 @@ Rotate the image
 
 ## Program:
 ```
-Developed By: Aakash S
-Register Number: 212221240001
+Developed By: praveen ck
+Register Number: 212222243003
 ```
 ## i)Original Image:
 ```python
